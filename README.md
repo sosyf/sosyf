@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sosyf
+- 👋 Hi, I’m @sosyaf
 - 👀 I’m interested in infosec
 - 🌱 I’m currently learning linux
 - 💞️ I’m looking to collaborate on ctf, pentesting
