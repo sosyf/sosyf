@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sosyaf
+- 👋 Hi, I’m @sosyf
 - 👀 I’m interested in cloud, security, incident response
 - 🌱 I’m currently learning cloud python
 - 💞️ I’m looking to collaborate on cloud projects
