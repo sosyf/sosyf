@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @sosyaf
-- 👀 I’m interested in infosec
-- 🌱 I’m currently learning linux
-- 💞️ I’m looking to collaborate on ctf, pentesting
+- 👀 I’m interested in cloud, security, incident response
+- 🌱 I’m currently learning cloud python
+- 💞️ I’m looking to collaborate on cloud projects
 - 📫 How to reach me ping
 - 😄 Pronouns: she
-- ⚡ Fun fact: i have no technical background
+- ⚡ Fun fact: i love the internet
 
 <!---
 sosyf/sosyf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
