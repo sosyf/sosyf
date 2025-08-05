@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on cloud projects
 - 📫 How to reach me ping
 - 😄 Pronouns: she
-- ⚡ Fun fact: i love the internet
+- ⚡ Fun fact: I enjoy flying but scared of heights
 
 <!---
 sosyf/sosyf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
