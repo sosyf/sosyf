@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sosyf
-- 👀 I’m interested in cloud security
-- 🌱 I’m currently learning aws, python
+- 👀 I’m interested in t&s investigations
+- 🌱 I’m currently learning sql, python
 - 💞️ I’m looking to showcase my investigation prowess
 - 📫 How to reach me ping
 - 😄 Pronouns: she
