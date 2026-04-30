@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @sosyf
-- 👀 I’m interested in t&s investigations
-- 🌱 I’m currently learning sql, python
-- 💞️ I’m looking to showcase my investigation prowess
-- 📫 How to reach me ping
-- 😄 Pronouns: she
-- ⚡ Fun fact: I enjoy flying but scared of heights
+Hi, I'm Sonia. 
 
-<!---
-sosyf/sosyf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This Github documents my shift in becoming an AI-native cyber investigator. 
+
+Me, work-wise currently: trust & safety/platform integrity for 7+ years at the world's biggest social media platform. 
+Prior to tech: foreign affairs, public policy. 
+
